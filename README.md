@@ -1,1 +1,2 @@
 # SQL
+This project involves the creation of a comprehensive database and analytical framework for evaluating the impact of corporate tax policies on household income distribution across various counties in a state. The primary goal is to provide a robust SQL-based solution that enables state government officials and policymakers to analyze how different corporate tax policies influence household incomes at a granular level.
